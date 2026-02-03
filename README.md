@@ -52,4 +52,33 @@ You can also manage the token later:
 - AI chat requires a valid token.
 
 ## Photos:
+## Screenshots
+
+![Desk setup](screenshots/desk.jpg)
+Desk + printed case.
+
+![Boot / welcome screen](screenshots/welcome.jpg)
+Welcome splash.
+
+![Desktop](screenshots/screen.jpg)
+Main XP‑style desktop.
+
+![Wi‑Fi scan](screenshots/wifi.jpg)
+Wi‑Fi scan view.
+
+![Wi‑Fi connected](screenshots/wifi_connected.jpg)
+Connected state.
+
+![Chat without Wi‑Fi](screenshots/chat_nowifi.jpg)
+AI chat when Wi‑Fi is not connected.
+
+![Chat with Wi‑Fi](screenshots/chat_wifi.jpg)
+AI chat over Wi‑Fi.
+
+![Paint app](screenshots/paint.jpg)
+Retro paint app.
+
+![Wikipedia page](screenshots/wikipedia.jpg)
+Static Wikipedia‑style page.
+
 
