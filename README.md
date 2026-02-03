@@ -52,33 +52,35 @@ You can also manage the token later:
 - AI chat requires a valid token.
 
 ## Photos:
+
 ## Screenshots
 
-![Desk setup](screenshots/desk.jpg)
+<img src="screenshots/desk.jpg" width="320">
 Desk + printed case.
 
-![Boot / welcome screen](AI_project_images/welcome.jpg)
+<img src="AI_project_images/welcome.jpg" width="320">
 Welcome splash.
 
-![Desktop](AI_project_images/screen.jpg)
+<img src="AI_project_images/screen.jpg" width="320">
 Main XP‑style desktop.
 
-![Wi‑Fi scan](AI_project_images/wifi.jpg)
+<img src="AI_project_images/wifi.jpg" width="320">
 Wi‑Fi scan view.
 
-![Wi‑Fi connected](AI_project_images/wifi_connected.jpg)
+<img src="AI_project_images/wifi_connected.jpg" width="320">
 Connected state.
 
-![Chat without Wi‑Fi](AI_project_images/chat_nowifi.jpg)
+<img src="AI_project_images/chat_nowifi.jpg" width="320">
 AI chat when Wi‑Fi is not connected.
 
-![Chat with Wi‑Fi](AI_project_images/chat_wifi.jpg)
+<img src="AI_project_images/chat_wifi.jpg" width="320">
 AI chat over Wi‑Fi.
 
-![Paint app](AI_project_images/paint.jpg)
+<img src="AI_project_images/paint.jpg" width="320">
 Retro paint app.
 
-![Wikipedia page](AI_project_images/wikipedia.jpg)
+<img src="AI_project_images/wikipedia.jpg" width="320">
 Static Wikipedia‑style page.
+
 
 
