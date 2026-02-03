@@ -53,8 +53,6 @@ You can also manage the token later:
 
 ## Photos:
 
-## Screenshots
-
 <img src="AI_project_images/desk.jpg" width="320">
 Desk + printed case.
 
