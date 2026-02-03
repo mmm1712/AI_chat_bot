@@ -68,10 +68,10 @@ Main XP‑style desktop.
 Wi‑Fi scan view.
 
 <img src="AI_project_images/wifi_connected.jpg" width="320">
-Connected state.
+AI chat when Wi‑Fi is not connected.
 
 <img src="AI_project_images/chat_nowifi.jpg" width="320">
-AI chat when Wi‑Fi is not connected.
+Connected state.
 
 <img src="AI_project_images/chat_wifi.jpg" width="320">
 AI chat over Wi‑Fi.
