@@ -55,7 +55,7 @@ You can also manage the token later:
 
 ## Screenshots
 
-<img src="screenshots/desk.jpg" width="320">
+<img src="AI_project_images/desk.jpg" width="320">
 Desk + printed case.
 
 <img src="AI_project_images/welcome.jpg" width="320">
