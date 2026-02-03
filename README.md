@@ -57,28 +57,28 @@ You can also manage the token later:
 ![Desk setup](screenshots/desk.jpg)
 Desk + printed case.
 
-![Boot / welcome screen](screenshots/welcome.jpg)
+![Boot / welcome screen](AI_project_images/welcome.jpg)
 Welcome splash.
 
-![Desktop](screenshots/screen.jpg)
+![Desktop](AI_project_images/screen.jpg)
 Main XP‑style desktop.
 
-![Wi‑Fi scan](screenshots/wifi.jpg)
+![Wi‑Fi scan](AI_project_images/wifi.jpg)
 Wi‑Fi scan view.
 
-![Wi‑Fi connected](screenshots/wifi_connected.jpg)
+![Wi‑Fi connected](AI_project_images/wifi_connected.jpg)
 Connected state.
 
-![Chat without Wi‑Fi](screenshots/chat_nowifi.jpg)
+![Chat without Wi‑Fi](AI_project_images/chat_nowifi.jpg)
 AI chat when Wi‑Fi is not connected.
 
-![Chat with Wi‑Fi](screenshots/chat_wifi.jpg)
+![Chat with Wi‑Fi](AI_project_images/chat_wifi.jpg)
 AI chat over Wi‑Fi.
 
-![Paint app](screenshots/paint.jpg)
+![Paint app](AI_project_images/paint.jpg)
 Retro paint app.
 
-![Wikipedia page](screenshots/wikipedia.jpg)
+![Wikipedia page](AI_project_images/wikipedia.jpg)
 Static Wikipedia‑style page.
 
 
