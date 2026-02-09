@@ -38,7 +38,6 @@ void setup() {
   WiFi.setSleep(false);
   delay(100);
 
-  WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
 
   unsigned long wifiStart = millis();
   while (millis() - wifiStart < 5000) {
