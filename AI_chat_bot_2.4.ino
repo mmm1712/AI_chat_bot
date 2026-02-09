@@ -3,7 +3,6 @@
 
 #include "touch.h"
 #include "keyboard.h"
-#include "secrets.h"
 
 #include "desktop.h"
 #include "chat_app.h"
